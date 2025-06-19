@@ -40,7 +40,7 @@ To run the **user interface locally**:
 
 ```bash
 # Clone only the frontend repository
-git clone https://github.com/birhanu-dejen/ABStore-user.git
+git clone https://github.com/Ermias5869/ABStore-admin.git
 
 # Navigate into the project directory
 cd ABStore-user
